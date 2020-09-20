@@ -2,6 +2,6 @@
 Hello My name is YeHyeon
 
 # 2주차 과제
-<img width="600" height="400" src="./png/19173025.png"></img>
+<img width="300" height="400" src="./png/19173025.png"></img>
 
 # 3주차 과제
