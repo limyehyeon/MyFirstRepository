@@ -17,3 +17,5 @@ Hello My name is YeHyeon
 - 단 하나의 앱으로 몸무게의 변화, 하루 식단•칼로리, 운동량과 칼로리 소모량을 알 수 있다.
 
 # 7주차 과제
+<img width="200" height="400" src="./png/19173025_7주차1.png"></img>
+<img width="200" height="400" src="./png/19173025_7주차2.png"></img>
